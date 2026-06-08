@@ -1,4 +1,4 @@
-# 🎵 Instant Music Recommender
+## 🎵 Instant Music Recommender
 
 An AI-Powered Music Recommendation System that helps users discover songs similar to their favorite tracks using Machine Learning, Deep Learning, NLP Embeddings, and Similarity Search.
 
