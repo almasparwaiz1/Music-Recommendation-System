@@ -3,7 +3,7 @@
 An AI-Powered Music Recommendation System that helps users discover songs similar to their favorite tracks using Machine Learning, Deep Learning, NLP Embeddings, and Similarity Search.
 
 
-### 🌟 Project Overview
+### Project Overview
 
 Finding music that matches your taste can be challenging when millions of songs are available.
 
@@ -14,7 +14,7 @@ The application analyzes song characteristics, embeddings, and similarity patter
 
 ### Key Features
 
-#### 🎵 Intelligent Song Recommendations
+#### Intelligent Song Recommendations
 
 * Select any song from the dataset
 * Receive instant similar-song recommendations
