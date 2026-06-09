@@ -49,7 +49,7 @@ The application analyzes song characteristics, embeddings, and similarity patter
 
 ### Live Demo
 
-
+https://music-recommendation-system-appi.streamlit.app/
 
 ### How It Works
 
