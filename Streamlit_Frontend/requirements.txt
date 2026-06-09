@@ -2,6 +2,10 @@ streamlit
 pandas
 numpy
 scikit-learn
+tensorflow==2.16.1
 sentence-transformers
 torch
 faiss-cpu
+scikit-surprise==1.1.4
+shap
+lime
